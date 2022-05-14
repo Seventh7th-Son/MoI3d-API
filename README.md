@@ -1,1 +1,1 @@
-# MoI3d API  Momment of Insperation
+# MoI3d API  Moment of Inspiration
